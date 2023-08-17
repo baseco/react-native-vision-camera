@@ -1,6 +1,6 @@
 {
   "name": "react-native-vision-camera",
-  "version": "2.15.4",
+  "version": "3.0.0",
   "description": "The Camera library that sees the vision.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -79,10 +79,10 @@
     "eslint": "^7.32.0",
     "pod-install": "^0.1.27",
     "prettier": "^2.4.1",
-    "react": "^17.0.2",
-    "react-native": "^0.66.0",
+    "react": "18.2.0",
+    "react-native": "0.72.0",
     "react-native-builder-bob": "^0.18.1",
-    "react-native-reanimated": "^2.3.0-beta.2",
+    "react-native-reanimated": "3.3.0",
     "release-it": "^14.11.5",
     "typescript": "^4.4.3"
   },
